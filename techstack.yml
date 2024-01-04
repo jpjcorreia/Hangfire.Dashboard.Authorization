@@ -1,7 +1,8 @@
 repo_name: jpjcorreia/Hangfire.Dashboard.Authorization
 report_id: f1ffad6197cbe97d2f54fb0126cd3fca
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T16:01:46+00:00'
+timestamp: '2024-01-04T15:03:15+00:00'
 requested_by: odinserj
 provider: github
 branch: master
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: src/Hangfire.Dashboard.Authorization/Hangfire.Dashboard.Authorization.csproj
+  detection_source_url: https://github.com/jpjcorreia/Hangfire.Dashboard.Authorization/blob/master/src/Hangfire.Dashboard.Authorization/Hangfire.Dashboard.Authorization.csproj
   detection_source: src/Hangfire.Dashboard.Authorization/Hangfire.Dashboard.Authorization.csproj
   last_updated_by: Sergey Odinokov
   last_updated_on: 2014-06-30 19:23:26.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/jpjcorreia/Hangfire.Dashboard.Authorization
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -41,6 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/jpjcorreia/Hangfire.Dashboard.Authorization/blob/master/src/Hangfire.Dashboard.Authorization/packages.config
   detection_source: src/Hangfire.Dashboard.Authorization/packages.config
   last_updated_by: Sergey Odinokov
   last_updated_on: 2014-06-30 19:23:26.000000000 Z
@@ -52,6 +55,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jpjcorreia/Hangfire.Dashboard.Authorization
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -61,6 +65,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/jpjcorreia/Hangfire.Dashboard.Authorization/blob/master/src/Hangfire.Dashboard.Authorization/packages.config
   detection_source: src/Hangfire.Dashboard.Authorization/packages.config
   last_updated_by: Sergey Odinokov
   last_updated_on: 2014-06-30 19:23:26.000000000 Z
@@ -72,7 +77,8 @@ tools:
   category: Application Hosting
   sub_category: Web Server Interface
   image_url: https://img.stackshare.io/service/4967/New_Project__95_.png
-  detection_source: src/Hangfire.Dashboard.Authorization/packages.config
+  detection_source_url: https://github.com/jpjcorreia/Hangfire.Dashboard.Authorization/blob/master/nuspecs/Hangfire.Dashboard.Authorization.nuspec
+  detection_source: nuspecs/Hangfire.Dashboard.Authorization.nuspec
   last_updated_by: Sergey Odinokov
   last_updated_on: 2014-09-05 13:05:27.000000000 Z
 - name: Visual Studio
@@ -84,6 +90,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/jpjcorreia/Hangfire.Dashboard.Authorization/blob/master/Hangfire.Dashboard.Authorization.sln
   detection_source: Hangfire.Dashboard.Authorization.sln
   last_updated_by: Sergey Odinokov
   last_updated_on: 2014-12-08 12:32:04.000000000 Z
@@ -95,6 +102,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/jpjcorreia/Hangfire.Dashboard.Authorization
   detection_source: Repo Metadata
 - name: Common.Logging
   description: Common.Logging library introduces a simple abstraction to allow you
@@ -107,7 +115,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12919/default_f8bf1110f8f0beaf5fae35865de7f77ccd1139f0.png
-  detection_source_url: src/Hangfire.Dashboard.Authorization/packages.config
+  detection_source_url: https://github.com/jpjcorreia/Hangfire.Dashboard.Authorization/blob/master/src/Hangfire.Dashboard.Authorization/packages.config
   detection_source: src/Hangfire.Dashboard.Authorization/packages.config
   last_updated_by: Sergey Odinokov
   last_updated_on: 2014-06-30 19:23:26.000000000 Z
@@ -121,7 +129,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13126/default_a057bdad489be3cb053d372a68695da4ac94962d.png
-  detection_source_url: src/Hangfire.Dashboard.Authorization/packages.config
+  detection_source_url: https://github.com/jpjcorreia/Hangfire.Dashboard.Authorization/blob/master/src/Hangfire.Dashboard.Authorization/packages.config
   detection_source: src/Hangfire.Dashboard.Authorization/packages.config
   last_updated_by: Sergey Odinokov
   last_updated_on: 2014-09-05 10:48:12.000000000 Z
@@ -136,7 +144,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13154/default_8ec8443385d582f19f93b79f0dcf69f422e58967.png
-  detection_source_url: nuspecs/Hangfire.Dashboard.Authorization.nuspec
+  detection_source_url: https://github.com/jpjcorreia/Hangfire.Dashboard.Authorization/blob/master/nuspecs/Hangfire.Dashboard.Authorization.nuspec
   detection_source: nuspecs/Hangfire.Dashboard.Authorization.nuspec
   last_updated_by: Sergey Odinokov
   last_updated_on: 2014-12-08 12:43:47.000000000 Z
@@ -151,7 +159,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12889/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
-  detection_source_url: src/Hangfire.Dashboard.Authorization/packages.config
+  detection_source_url: https://github.com/jpjcorreia/Hangfire.Dashboard.Authorization/blob/master/src/Hangfire.Dashboard.Authorization/packages.config
   detection_source: src/Hangfire.Dashboard.Authorization/packages.config
   last_updated_by: Sergey Odinokov
   last_updated_on: 2014-09-05 10:48:12.000000000 Z
@@ -178,13 +186,19 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/nuget/image.png
-  detection_source_url: src/Hangfire.Dashboard.Authorization/packages.config
+  detection_source_url: https://github.com/jpjcorreia/Hangfire.Dashboard.Authorization/blob/master/src/Hangfire.Dashboard.Authorization/packages.config
   detection_source: src/Hangfire.Dashboard.Authorization/packages.config
   last_updated_by: Sergey Odinokov
   last_updated_on: 2014-09-05 10:48:12.000000000 Z
   vulnerabilities:
-  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
     cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
     cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
     detected_date: Jun 23
     severity: high
@@ -199,7 +213,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14423/default_af7eee713d818de6dc2e923eea263da99ccad25a.png
-  detection_source_url: ".nuget/packages.config"
+  detection_source_url: https://github.com/jpjcorreia/Hangfire.Dashboard.Authorization/blob/master/.nuget/packages.config
   detection_source: ".nuget/packages.config"
   last_updated_by: Sergey Odinokov
   last_updated_on: 2014-12-08 12:32:04.000000000 Z
